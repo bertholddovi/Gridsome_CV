@@ -18,7 +18,7 @@
             <font-awesome :icon="['fa', 'birthday-cake']" />
           </li>
         </div>
-        <div>DATE OF BIRTH</div>
+        <div>le 03 Septembre 1986 Lomé - TOGO</div>
       </div>
 
       <div class="inline-block">
@@ -27,7 +27,7 @@
             <font-awesome :icon="['fa', 'map-marker']" />
           </li>
         </div>
-        <div>WHERE YOU LIVE</div>
+        <div>Rue Reine - Astrid 20/1D Welekenraedt 4840 - Belgique</div>
       </div>
     </div>
   </section>

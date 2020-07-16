@@ -5,7 +5,7 @@
       <hr class="m-0" />
       <Experiences />
       <hr class="m-0" />
-      <Educations />
+      <Formations />
       <hr class="m-0" />
       <Skills />
       <hr class="m-0" />
@@ -26,7 +26,7 @@
 import About from "../components/About";
 import Contacts from "../components/Contacts";
 import Experiences from "../components/Experiences";
-import Educations from "../components/Educations";
+import Formations from "../components/Formations";
 import Skills from "../components/Skills";
 import Interests from "../components/Interests";
 import Languages from "../components/Languages";
@@ -36,7 +36,7 @@ export default {
   components: {
     About,
     Experiences,
-    Educations,
+    Formations,
     Skills,
     Languages,
     Informations,
@@ -44,7 +44,7 @@ export default {
     Contacts
   },
   metaInfo: {
-    title: "Gridsome CV"
+    title: "CV AA-B"
   }
 };
 </script>

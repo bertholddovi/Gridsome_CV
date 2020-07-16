@@ -14,25 +14,25 @@
     <div class="collapse navbar-collapse" id="mysidebar ">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#about')">Profil</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#about')">Profile</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#contact')">Contact</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#contact')">Contacts</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#informations')">Informations</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#experience')">Expériences</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#experience')">Experiences</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#education')">Formations</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#formation')">Formations</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#skills')">Compétences</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#skills')">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" v-on:click.prevent="$scrollTo('#langue')">Langues</a>
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#langue')">Languages</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#interest')">Hobbies</a>

@@ -7,13 +7,16 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@becode/eslint-config": "^0.10.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@fortawesome/vue-fontawesome": "^0.1.9",
-    "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.4.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
     "gridsome": "^0.7.0",
+    "vue": "^2.6.11",
     "vue-scrollto": "^2.17.1"
   },
   "devDependencies": {

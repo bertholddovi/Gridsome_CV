@@ -2,6 +2,10 @@ import DefaultLayout from "~/layouts/Default.vue";
 
 import VueScrollTo from "vue-scrollto";
 import BootstrapVue from "bootstrap-vue";
+// education page
+//import { BootstrapVue, IconsPlugin } from "bootstrap-vue";
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap-vue/dist/bootstrap-vue.css";
 
 import "./assets/styles/main.scss";
 
@@ -16,7 +20,8 @@ import {
   faCar,
   faMapMarker,
   faBirthdayCake,
-  faPaperclip
+  faPaperclip,
+  faSmileBeam
 } from "@fortawesome/free-solid-svg-icons";
 
 import {
@@ -34,7 +39,11 @@ import {
   faNpm,
   faVuejs,
   faBootstrap,
-  faLaravel
+  faLaravel,
+  faSymfony,
+  faPhp,
+  faJs,
+  faDiscord
 } from "@fortawesome/free-brands-svg-icons";
 
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
@@ -61,10 +70,16 @@ library.add(
   faCar,
   faMapMarker,
   faBirthdayCake,
+  faSymfony,
   faBootstrap,
   faLaravel,
-  faPaperclip
+  faPaperclip,
+  faPhp,
+  faJs,
+  faDiscord
 );
+
+
 
 // Here is some examples but you can add any other icon by typing in the library.add(ADD_HERE_ANY_NAME_OF_ICON);
 
