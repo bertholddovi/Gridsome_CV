@@ -78,6 +78,7 @@
             >
             <b-button
               href="https://becode-person.herokuapp.com/pages/connexion.php"
+              target="_blank"
               variant="primary"
               >Link Heroku</b-button
             ><br />
