@@ -37,6 +37,9 @@
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#interest')">Hobbies</a>
         </li>
+         <li class="nav-item">
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#portfolio')">Portfolio</a>
+        </li>
       </ul>
     </div>
   </nav>

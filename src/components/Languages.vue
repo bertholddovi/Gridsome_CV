@@ -1,7 +1,7 @@
 <template>
 <section class="resume-section middle" id="langue">
   <div>
-    <h1>Languages</h1>
+    <h1>Langues</h1>
     <ul>
       <li>
         <strong>Français :</strong>

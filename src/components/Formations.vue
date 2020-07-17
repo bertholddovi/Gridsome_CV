@@ -13,12 +13,13 @@
             <strong>01/2020 à nos jours</strong> :
             <strong> Becode Liège</strong> <br />
             <ul>
-              <li>Languages</li>
+              <li>Languages et Logiciels</li>
               <ul>
                 <li>Html</li>
                 <li>css</li>
                 <li>javascript</li>
                 <li>php-7</li>
+                <li>Docker</li>
               </ul>
               <li>Libraries - Framework</li>
               <ul>
@@ -28,9 +29,10 @@
                 <li>react.js</li>
                 <li>angular.js</li>
               </ul>
-              <li>Bases de données non relationnelles</li>
+              <li>Bases de données</li>
               <ul>
                 <li>Mongodb</li>
+                <li>MySql</li>
               </ul>
             </ul>
           </b-card-text>
@@ -69,7 +71,7 @@
               </ul>
               <li>Bases de données relationnelles</li>
               <ul>
-                <li>My-SQL</li>
+                <li>MySQL</li>
               </ul>
             </ul>
           </b-card-text>

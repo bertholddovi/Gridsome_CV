@@ -16,6 +16,8 @@
       <Contacts />
        <hr class="m-0" />
       <Informations />
+      <hr class="m-0" />
+      <Portfolio />
       
     </div>
   </Layout>
@@ -31,6 +33,7 @@ import Skills from "../components/Skills";
 import Interests from "../components/Interests";
 import Languages from "../components/Languages";
 import Informations from "../components/Informations";
+import Portfolio from "../components/Portfolio";
 
 export default {
   components: {
@@ -41,10 +44,11 @@ export default {
     Languages,
     Informations,
     Interests,
-    Contacts
+    Contacts,
+    Portfolio
   },
   metaInfo: {
-    title: "CV AA-B"
+    title: "Bertholddovi"
   }
 };
 </script>

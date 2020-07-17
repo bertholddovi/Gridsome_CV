@@ -23,6 +23,15 @@
 
       <div class="inline-block">
         <div class="social-icons contact-icons">
+          <li title="Date de naissance" class="icons">
+            <font-awesome :icon="['fa', 'baby']" />
+          </li>
+        </div>
+        <div>Marié et père d'une chouette Fille de 20 mois</div>
+      </div>
+
+      <div class="inline-block">
+        <div class="social-icons contact-icons">
           <li title="Lieu d'habitation" class="icons">
             <font-awesome :icon="['fa', 'map-marker']" />
           </li>

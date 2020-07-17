@@ -1,9 +1,10 @@
 import DefaultLayout from "~/layouts/Default.vue";
 
 import VueScrollTo from "vue-scrollto";
-import BootstrapVue from "bootstrap-vue";
+//import BootstrapVue from "bootstrap-vue";
 // education page
-//import { BootstrapVue, IconsPlugin } from "bootstrap-vue";
+import { BootstrapVue } from "bootstrap-vue";
+import { BListGroup } from 'bootstrap-vue';
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
 
@@ -43,7 +44,8 @@ import {
   faSymfony,
   faPhp,
   faJs,
-  faDiscord
+  faDiscord,
+  faDocker
 } from "@fortawesome/free-brands-svg-icons";
 
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
@@ -76,17 +78,19 @@ library.add(
   faPaperclip,
   faPhp,
   faJs,
-  faDiscord
+  faDiscord,
+  faDocker
 );
 
 
 
 // Here is some examples but you can add any other icon by typing in the library.add(ADD_HERE_ANY_NAME_OF_ICON);
 
-export default function(Vue, { router, head, isClient }) {
+export default function(Vue, { router, head, isClient}) {
   Vue.use(VueScrollTo);
   Vue.use(BootstrapVue);
   Vue.component("Layout", DefaultLayout);
+  Vue.component("b-list-group", BListGroup);
 
   Vue.component("font-awesome", FontAwesomeIcon);
 }
