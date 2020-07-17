@@ -13,7 +13,7 @@
         <li>Documentations</li>
         <li>Football</li>
         <li>Natation</li>
-        <li>Jeu Vidéo</li>
+        <li>Jeux Vidéos</li>
       </ul>
     </div>
   </section>

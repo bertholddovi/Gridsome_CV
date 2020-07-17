@@ -36,16 +36,19 @@
             <font-awesome :icon="['fa', 'file-pdf']" />
           </li>
         </div>
-        
-        
+
         <div>
           <div>
-           <a href="../assets/images/Berthold_DoviCV.pdf" target="_blank"
-            >Télécharger le CV au format PDF</a
+            <a href="#" target="_blank"
+              >Bientôt disponible</a
+            >
+          </div>
+          <!--   <div>
+           <pdf href="~/assets/images/Berthold_DoviCV.pdf" target="_blank"
+            >Télécharger le CV au format PDF</pdf
           >
-            </div>
+            </div> -->
         </div>
-         
       </div>
 
       <div class="inline-block">

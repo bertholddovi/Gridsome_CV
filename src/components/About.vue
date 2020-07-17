@@ -14,10 +14,10 @@
         d'expériences, je suis disposé à toujours apprendre de nouveaux
         langages, je sais travailler en équipe et seul.
       </p>
-      <p>
+      <!-- <p>
         <a href="../assets/images/profil.jpg" target="_blank">Télécharger le CV au
                     format PDF</a>
-      </p>
+      </p> -->
     </div>
   </section>
 </template>

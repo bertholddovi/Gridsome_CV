@@ -111,7 +111,7 @@ export default {
           Date_début: "Février/2012",
         },
         {
-          isActive: true,
+          isActive: false,
           date: "Septembre/2009",
           Expériences:
             "Après mon baccalauréat j'ai travaillé dans l'entreprise familliale de mon père (Etablissement International de Construction Métallique Générale du Toogo) je m'occupais des tâches administratives (devis-factures et paie des ouvriers) ",
