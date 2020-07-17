@@ -175,7 +175,7 @@
               href="https://flamboyant-hypatia-ba590f.netlify.app/all"
               target="_blank"
               variant="primary"
-              >Link Heroku</b-button
+              >Link Netlify</b-button
             >
             <br />
             <br />
