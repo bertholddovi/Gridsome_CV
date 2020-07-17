@@ -12,9 +12,9 @@
         <p>
           Développeur junior fullstack, je fais la maintenance des sites et
           conçois de nouveaux sites. En occurence avec de diverses technologies
-          comme (Vue basée sur javascript node js) en frontend. Je mets en place
-          un API pour se connecter et récupérer des données en temps réelles.
-          Une bonne connaissance de la gestion des bases de données.
+          comme ( les frameworks "Vue" basés sur javascript node js) en frontend. Je mets en place
+          des API en backend (php et nodes js) pour se connecter et récupérer des données en temps réelles.
+          je dispose aussi d'une bonne connaissance de la gestion des bases de données.
         </p>
       </div>
     </div>
