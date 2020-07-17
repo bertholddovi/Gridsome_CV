@@ -171,6 +171,14 @@
               angular js (frontend), node js et Mongodb (backend).Toujours en
               travaux</b-card-text
             >
+             <b-button
+              href="https://flamboyant-hypatia-ba590f.netlify.app/all"
+              target="_blank"
+              variant="primary"
+              >Link Heroku</b-button
+            >
+            <br />
+            <br />
             <b-button
               href="https://github.com/bertholddovi/z-gallerie-angular"
               target="_blank"
