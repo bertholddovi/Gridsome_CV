@@ -77,13 +77,13 @@
               >Forum de discussion réalisé avec php et MySQl</b-card-text
             >
             <b-button
-              href="https://github.com/faking-it/forum_person/tree/berthold_forum_person"
+              href="https://becode-person.herokuapp.com/pages/connexion.php"
               variant="primary"
               >Link Heroku</b-button
             ><br />
             <br />
             <b-button
-              href="https://github.com/faking-it/forum_person"
+              href="https://github.com/faking-it/forum_person/tree/berthold_forum_person"
               target="_blank"
               variant="primary"
               >Link Code github</b-button
