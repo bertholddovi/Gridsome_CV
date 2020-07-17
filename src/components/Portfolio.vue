@@ -172,7 +172,7 @@
               travaux</b-card-text
             >
              <b-button
-              href="https://flamboyant-hypatia-ba590f.netlify.app/all"
+              href="https://zlatane-gallerie.netlify.app/all"
               target="_blank"
               variant="primary"
               >Link Netlify</b-button
