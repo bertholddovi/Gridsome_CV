@@ -58,7 +58,7 @@ export default {
         {
           isActive: false,
           date: "à nos jours",
-          Expériences: " Freelance web developpeur PHP sue codeur.com et MALT",
+          Expériences: " Freelance web developpeur PHP sur codeur.com et MALT",
           Date_début: "2018",
         },
         {

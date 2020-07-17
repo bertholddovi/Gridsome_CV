@@ -24,10 +24,28 @@
       <div class="inline-block">
         <div class="social-icons contact-icons">
           <li title="Date de naissance" class="icons">
-            <font-awesome :icon="['fa', 'baby']" />
+            <font-awesome :icon="['fa', 'user']" />
           </li>
         </div>
         <div>Marié et père d'une chouette Fille de 20 mois</div>
+      </div>
+
+      <div class="inline-block">
+        <div class="social-icons contact-icons">
+          <li title="CV en Pdf" class="icons">
+            <font-awesome :icon="['fa', 'file-pdf']" />
+          </li>
+        </div>
+        
+        
+        <div>
+          <div>
+           <a href="../assets/images/Berthold_DoviCV.pdf" target="_blank"
+            >Télécharger le CV au format PDF</a
+          >
+            </div>
+        </div>
+         
       </div>
 
       <div class="inline-block">

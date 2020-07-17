@@ -22,7 +22,9 @@ import {
   faMapMarker,
   faBirthdayCake,
   faPaperclip,
-  faSmileBeam
+  faSmileBeam,
+  faFilePdf,
+  faUser
 } from "@fortawesome/free-solid-svg-icons";
 
 import {
@@ -79,16 +81,21 @@ library.add(
   faPhp,
   faJs,
   faDiscord,
+  faDocker,
+  faFilePdf,
+  faUser,
   faDocker
 );
-
+//pdf vue
 
 
 // Here is some examples but you can add any other icon by typing in the library.add(ADD_HERE_ANY_NAME_OF_ICON);
 
 export default function(Vue, { router, head, isClient}) {
+ 
   Vue.use(VueScrollTo);
   Vue.use(BootstrapVue);
+
   Vue.component("Layout", DefaultLayout);
   Vue.component("b-list-group", BListGroup);
 

@@ -25,6 +25,7 @@
               <ul>
                 <li>sass</li>
                 <li>Boostrap</li>
+                <li>Bulma</li>
                 <li>vue.js</li>
                 <li>react.js</li>
                 <li>angular.js</li>

@@ -5,7 +5,7 @@
       <p>
         Malgré mon statut de personne timide, je sais rire, j'aime beaucoup
         m'amuser pour détendre l'atmosphère et je pratique des sports d'équipe
-        comme le football, les jeux vidéos et la nation synchronisée.
+        comme le football et la nation synchronisée.
       </p>
       <ul>
         <li>Voyages</li>

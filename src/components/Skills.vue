@@ -1,7 +1,7 @@
 <template>
   <section class="resume-section" id="skills">
     <div class="w-100">
-      <h1 class="mb-5">Skills</h1>
+      <h1 class="mb-5">Competences</h1>
 
       <div class="subheading mb-3">Languages de programmations</div>
       <ul class="list-inline dev-icons">
@@ -52,10 +52,13 @@
         </li>
       </ul>
 
-      <div class="subheading mb-3">Applications et autres</div>
+      <div class="subheading mb-3">Applications et Logiclies</div>
       <ul class="list-inline dev-icons">
         <li title=" Github " class="icons list-inline-item">
           <font-awesome :icon="['fab', 'github']" />
+        </li>
+        <li title=" Docker " class="icons list-inline-item">
+          <font-awesome :icon="['fab', 'docker']" />
         </li>
         <li title=" Git " class="icons list-inline-item">
           <font-awesome :icon="['fab', 'git']" />
@@ -63,6 +66,7 @@
         <li title=" Discord " class="icons list-inline-item">
           <font-awesome :icon="['fab', 'discord']" />
         </li>
+        
       </ul>
     </div>
   </section>

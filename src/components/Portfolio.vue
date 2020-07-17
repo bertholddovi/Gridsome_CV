@@ -148,7 +148,7 @@
             >
             <template v-slot:footer>
               <em
-                >Mongodb, Express, React Js, Javascript, Typescript, Node js
+                >Mongodb, Express, React Js,Bulma, Javascript, Typescript, Node js
               </em>
             </template>
           </b-card>
